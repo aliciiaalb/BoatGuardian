@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a061ece3-3c4a-4cff-bab9-f201ee30d3c5"
+      }
+    },
+    "owner": "aliciiaaalb",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a061ece3-3c4a-4cff-bab9-f201ee30d3c5"
     }
   }
 }
